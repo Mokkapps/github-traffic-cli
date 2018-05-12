@@ -1,0 +1,35 @@
+{
+  "name": "github-traffic-cli",
+  "version": "0.1.0",
+  "description": "A CLI tool to fetch the traffic on GitHub repositories",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "get-traffic": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mokkapps/github-traffic-cli.git"
+  },
+  "keywords": [
+    "github",
+    "traffic",
+    "npm",
+    "cli"
+  ],
+  "author": "Michael Hoffmann (Mokkapps)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mokkapps/github-traffic-cli/issues"
+  },
+  "homepage": "https://github.com/Mokkapps/github-traffic-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "clui": "^0.3.6",
+    "commander": "^2.15.1",
+    "figlet": "^1.2.0",
+    "github-traffic": "^0.1.2",
+    "inquirer": "^5.2.0",
+    "node-fetch": "^2.1.2"
+  }
+}
