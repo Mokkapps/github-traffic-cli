@@ -21,3 +21,5 @@ Run this command in your terminal and follow the prompts:
 ```js
 get-traffic views
 ```
+
+!["github-traffic-cli" Screenshot](/github-traffic-cli.png#c)
