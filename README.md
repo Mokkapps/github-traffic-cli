@@ -1,4 +1,4 @@
-github-traffic [![NPM version](https://img.shields.io/npm/v/github-traffic-cli.svg?style=flat)](https://www.npmjs.com/package/github-traffic-cli) [![NPM downloads](https://img.shields.io/npm/dm/github-traffic-cli.svg?style=flat)](https://npmjs.org/package/github-traffic-cli) [![Build Status](https://img.shields.io/travis/doowb/github-traffic-cli.svg?style=flat)](https://travis-ci.org/doowb/github-traffic-cli)
+[![NPM version](https://img.shields.io/npm/v/github-traffic-cli.svg?style=flat)](https://www.npmjs.com/package/github-traffic-cli) [![NPM downloads](https://img.shields.io/npm/dm/github-traffic-cli.svg?style=flat)](https://npmjs.org/package/github-traffic-cli) [![Build Status](https://img.shields.io/travis/doowb/github-traffic-cli.svg?style=flat)](https://travis-ci.org/doowb/github-traffic-cli)
 
 # GitHub Traffic CLI
 
